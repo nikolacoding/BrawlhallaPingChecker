@@ -1,0 +1,17 @@
+C:\Users\Nikola\source\repos\BrawlhallaPingChecker\BrawlhallaPingChecker\bin\Debug\netcoreapp3.1\BrawlhallaPingChecker.exe
+C:\Users\Nikola\source\repos\BrawlhallaPingChecker\BrawlhallaPingChecker\bin\Debug\netcoreapp3.1\BrawlhallaPingChecker.deps.json
+C:\Users\Nikola\source\repos\BrawlhallaPingChecker\BrawlhallaPingChecker\bin\Debug\netcoreapp3.1\BrawlhallaPingChecker.runtimeconfig.json
+C:\Users\Nikola\source\repos\BrawlhallaPingChecker\BrawlhallaPingChecker\bin\Debug\netcoreapp3.1\BrawlhallaPingChecker.runtimeconfig.dev.json
+C:\Users\Nikola\source\repos\BrawlhallaPingChecker\BrawlhallaPingChecker\bin\Debug\netcoreapp3.1\BrawlhallaPingChecker.dll
+C:\Users\Nikola\source\repos\BrawlhallaPingChecker\BrawlhallaPingChecker\bin\Debug\netcoreapp3.1\BrawlhallaPingChecker.pdb
+C:\Users\Nikola\source\repos\BrawlhallaPingChecker\BrawlhallaPingChecker\obj\Debug\netcoreapp3.1\BrawlhallaPingChecker.csproj.AssemblyReference.cache
+C:\Users\Nikola\source\repos\BrawlhallaPingChecker\BrawlhallaPingChecker\obj\Debug\netcoreapp3.1\BrawlhallaPingChecker.Form1.resources
+C:\Users\Nikola\source\repos\BrawlhallaPingChecker\BrawlhallaPingChecker\obj\Debug\netcoreapp3.1\BrawlhallaPingChecker.csproj.GenerateResource.cache
+C:\Users\Nikola\source\repos\BrawlhallaPingChecker\BrawlhallaPingChecker\obj\Debug\netcoreapp3.1\BrawlhallaPingChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\BrawlhallaPingChecker\BrawlhallaPingChecker\obj\Debug\netcoreapp3.1\BrawlhallaPingChecker.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\BrawlhallaPingChecker\BrawlhallaPingChecker\obj\Debug\netcoreapp3.1\BrawlhallaPingChecker.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\BrawlhallaPingChecker\BrawlhallaPingChecker\obj\Debug\netcoreapp3.1\BrawlhallaPingChecker.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\BrawlhallaPingChecker\BrawlhallaPingChecker\obj\Debug\netcoreapp3.1\BrawlhallaPingChecker.dll
+C:\Users\Nikola\source\repos\BrawlhallaPingChecker\BrawlhallaPingChecker\obj\Debug\netcoreapp3.1\BrawlhallaPingChecker.pdb
+C:\Users\Nikola\source\repos\BrawlhallaPingChecker\BrawlhallaPingChecker\obj\Debug\netcoreapp3.1\BrawlhallaPingChecker.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\BrawlhallaPingChecker\BrawlhallaPingChecker\obj\Debug\netcoreapp3.1\BrawlhallaPingChecker.Properties.Resources.resources
